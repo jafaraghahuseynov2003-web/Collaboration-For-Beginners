@@ -1,8 +1,8 @@
 # Contributors
 
 #### Name: [Jafaragha Huseynov](https://github.com/jafaraghahuseynov2003-web)
-- Place: Macau
-- Bio: SDS student interested in open-source learning
+- Place: Baku
+- Bio: Backend automation specialist
 - GitHub: [flamesky-exp](https://github.com/flamesky-exp)
 
 #### Pau: [Pau Garcia](https://github.com/Paugb124)
