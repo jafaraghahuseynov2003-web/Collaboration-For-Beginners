@@ -1,6 +1,6 @@
 # Contributors
 
-#### Name: [Xianglin Ren](https://github.com/flamesky-exp)
+#### Name: [Jafaragha Huseynov](https://github.com/jafaraghahuseynov2003-web)
 - Place: Macau
 - Bio: SDS student interested in open-source learning
 - GitHub: [flamesky-exp](https://github.com/flamesky-exp)
