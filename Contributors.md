@@ -3,7 +3,7 @@
 #### Name: [Jafaragha Huseynov](https://github.com/jafaraghahuseynov2003-web)
 - Place: Baku
 - Bio: Backend automation specialist
-- GitHub: [flamesky-exp](https://github.com/flamesky-exp)
+- GitHub: [jafaraghahuseynov2003-web](https://github.com/jafaraghahuseynov2003-web)
 
 #### Pau: [Pau Garcia](https://github.com/Paugb124)
 - Place: Gandia, Valencia; España
